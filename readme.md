@@ -1,6 +1,6 @@
 # Ejercicios Resueltos JS-04 - Arrays and Loops - Bootcamp Generation
 
-Este repositorio contiene los ejercicios resueltos de las tareas asignadas durante mi participación en el bootcamp de **Generation**. Cada archivo ha sido trabajado y probado utilizando `Node.js`, aunque tambien se puede usar el archivo html
+Este repositorio contiene los ejercicios resueltos de una de las tareas asignadas durante mi participación en el bootcamp de **Generation**. Cada archivo ha sido trabajado y probado utilizando `Node.js`, aunque tambien se puede usar el archivo html
 
 ## Cómo ejecutar los ejercicios
 
