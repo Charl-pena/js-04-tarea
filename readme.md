@@ -8,17 +8,17 @@ Este repositorio contiene los ejercicios resueltos de las tareas asignadas duran
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/usuario/mi-repositorio.git
+   git clone https://github.com/Charl-pena/js-04-tarea.git
    ```
 
 2. Navega hasta el directorio del repositorio:
    ```bash
-   cd mi-repositorio
+   cd js-04-tarea
    ```
 
 3. Ejecuta los ejercicios usando `Node.js`:
    ```bash
-   node nombre-del-archivo.js
+   node nombre-del-archivo-del-ejercicio.js
    ```
 
 Esta es la forma recomendada para ejecutar los ejercicios, ya que es la manera más directa y sencilla.
