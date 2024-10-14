@@ -1,9 +1,7 @@
 function secretName(names)
 {
    let arN = Array.from(names);
-   arN = arN.map((cur, i, arr) => (typeof cur === "string" && cur.length > 0) ? cur[0] : "" );
-
-   return arN.join('');
+   return arN = arN.map((cur, i, arr) => (typeof cur === "string" && cur.length > 0) ? cur[0] : "" ).sort().join('');
 }
 
 let result1 = secretName(["Esperanza","Franco", "Nia"]);
