@@ -4,9 +4,8 @@ function sumResitance(arrResis)
 {
    let aR = Array.from(arrResis);
    return aR.reduce((acc, cur, i) => (typeof cur === 'number') ? (i+1 === aR.length) 
-      ? acc += " ohms" : Math.abs(acc) + Math.abs(cur) : acc, 0 );
+      ? acc += " ohms" : acc + Math.abs(cur) : acc, 0 );
 }
-
 
 let result1 = sumResitance([-1,5,6,3]);
 let result2 = sumResitance([14,3.5, 6]);
